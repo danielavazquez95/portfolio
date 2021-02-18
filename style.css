@@ -256,6 +256,9 @@ section .title::after{
     cursor: pointer;
     transition: all 0.3s ease;
 }
+.services .serv-content a{
+   text-decoration: none;
+}
 .services .serv-content a:visited{
     color: #fff;
 }
