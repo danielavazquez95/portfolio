@@ -259,6 +259,9 @@ section .title::after{
 .services .serv-content a{
    text-decoration: none;
 }
+.services .serv-content a:link {
+    color: #fff;
+}
 .services .serv-content a:visited{
     color: #fff;
 }
